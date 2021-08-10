@@ -59,8 +59,7 @@ button:hover{
 	outline: none;
 	border-radius: 10px;
 	justify-content: center;
-	position: relative;
-	top: 40%;
+	margin-top:30%;
 }
 button:hover{
 	background-color: black;
